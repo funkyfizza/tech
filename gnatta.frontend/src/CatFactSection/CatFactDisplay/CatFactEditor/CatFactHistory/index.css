@@ -1,0 +1,25 @@
+.CatFactHistory {
+    display: flex;
+}
+
+.CatFactHistoryCommentList, .CatFactHistoryRatingList {
+    width: 50%;
+}
+
+.CatFactHistoryComment {
+    padding: 10px;
+}
+
+.CatFactHistoryTimestamp {
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
+.CatFactRatingStars {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.CatFactRatingStars > .StarFilled {
+    color: #b4aa00;
+}

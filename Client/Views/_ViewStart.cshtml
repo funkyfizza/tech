@@ -1,0 +1,11 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    <script type="text/javascript">
+        debugger;
+        var container = document.getElementById('t');
+        var request = new XMLHttpRequest();
+        request.open("get", "/api/fact/list");
+        request.send();
+
+    </script>
+}

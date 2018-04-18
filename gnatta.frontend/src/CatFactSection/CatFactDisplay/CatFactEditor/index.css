@@ -1,0 +1,15 @@
+.CatFactEditor {
+    margin: 5px;
+    padding: 15px;
+    border: 1px solid darkgrey;
+    height: 80%;
+    overflow: auto;
+}
+
+.CatFactEditor > div {
+    margin-bottom: 10px;
+}
+
+.CatFactEditorDisplayText {
+    font-size: 1.2em;
+}

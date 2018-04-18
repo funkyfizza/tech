@@ -1,0 +1,11 @@
+.TestControlBar {
+    height: 25px;
+    line-height: 25px;
+    background-color: lightgrey;
+    flex: 0 1 auto;
+    text-align: center;
+}
+
+.TestControlBar > button {
+    margin: 0 5px;
+}

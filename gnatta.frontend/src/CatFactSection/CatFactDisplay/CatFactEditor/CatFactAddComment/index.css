@@ -1,0 +1,9 @@
+.CatFactEditorAddComment {
+    padding: 5px;
+}
+
+.CatFactEditorAddComment textarea {
+    width: 100%;
+    resize: none;
+    height: 60px;
+}

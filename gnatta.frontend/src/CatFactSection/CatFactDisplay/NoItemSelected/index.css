@@ -1,0 +1,12 @@
+.NoItemSelected {
+    font-weight: bold;
+    font-size: 72px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color: lightgrey;
+    background-color: #f8f8f8;
+    user-select: none;
+}
