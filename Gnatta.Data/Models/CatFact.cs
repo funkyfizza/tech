@@ -11,4 +11,4 @@ namespace Gnatta.Data.Models
         public IList<CatFactComment> Comments { get; set; } = new List<CatFactComment>();
         public IList<CatFactRating> Ratings { get; set; } = new List<CatFactRating>();
     }
-}
+}  
